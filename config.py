@@ -1,5 +1,3 @@
-bot_token = '1327187240:AAFZhe7sVUlRM6lytBlCLO9t5h5tyd4u4D4'
-admin_id = '1110975215'
 AyasofyaCamiiurlsi = 'https://www.kutsalkitap.org/ayasofya/?gclid=EAIaIQobChMI7JL43OjS7AIVw_ZRCh1_iQSREAAYASAAEgIAR_D_BwE'
 SultanAhmetCamiiurlsi = 'https://www.garenta.com.tr/blog/bir-istanbul-guzellemesi-sultan-ahmet-camii/'
 LaraDudenWaterfallurlsi = 'https://www.antalyagezirehberi.net/asagi-duden-selalesi.html'
