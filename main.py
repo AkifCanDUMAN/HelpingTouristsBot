@@ -1,3 +1,5 @@
+bot_token = '1327187240:AAFZhe7sVUlRM6lytBlCLO9t5h5tyd4u4D4'
+admin_id = '1110975215'
 from config import bot_token
 import asyncio
 from aiogram import Bot, Dispatcher, executor
